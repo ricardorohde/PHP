@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<content>
+	<!-- general vars -->
+	<section name="settings">
+		<item name="copyright"><![CDATA[
+GBS © 2007 | <a href="asfunction:_root.more_click_func, 999999"> Privacy Policy </a>| Terms Of Use
+		]]></item>
+		<item name="companyName"><![CDATA[G.B.S.]]></item>
+		<item name="companyname2"><![CDATA[BUSINESS COMPANY]]></item>
+		<item name="slogan"><![CDATA[GLOBAL BUSINESS<br>SOLUTIONS]]></item>
+		<item name="call_us"><![CDATA[CALL US: +1 800 559 6580]]></item>
+		<item name="client_login"><![CDATA[<a href="#">client login</a>]]></item>
+	</section>
+	
+	<!-- menu -->
+<section name="menu">
+<link systemOrder="1"><![CDATA[
+HOME
+]]></link>
+
+<link systemOrder="2"><![CDATA[
+CLIENTES
+]]></link>
+
+<link systemOrder="3"><![CDATA[
+OBRAS
+]]></link>
+
+<link systemOrder="4">
+<![CDATA[
+A EMPRESA
+]]></link>
+
+<link systemOrder="5">
+<![CDATA[
+AMBIENTAL
+]]></link>
+
+<link systemOrder="6">
+<![CDATA[
+CONTATO
+]]></link>
+
+<link systemOrder="7">
+<![CDATA[
+SERVICOS
+]]></link>
+
+
+
+
+
+<link systemOrder="5"><![CDATA[
+<b>CONTACTS</b>
+]]></link>
+
+
+</section>
+	
+	<!-- pages -->
+	<section name="pages">
+		
+		
+
+		
+		
+<page name="HOME">
+<image imageUrl="_pic1.jpg" link="http://www.yourcompany.com"/>
+<texts>
+
+
+<pageText><![CDATA[
+<font color='#D52D00'>SERVIÇOS</font> CONHEÇA NOSSOS SERVIÇOS
+]]></pageText>
+
+<pageText><![CDATA[
+<b>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. In consectetuer tincidunt lectus.</b><br><br>Fusce orci felis, molestie ut, ornare quis, rhoncus at, dolor. Duis sit amet neque. 
+<br><br><font color="#D52D00"><b><a href="asfunction:_root.more_click_func,0">° read more</a></b></font><br>
+]]></pageText>
+
+<pageText><![CDATA[
+AVAILABLE  <font color='#D52D00'>SERVICES</font>
+]]></pageText>
+
+<pageText><![CDATA[
+<a href="#">
+<b>° Mauris congue quam nec tortor.
+° In egestas facilisis eros.
+° Integer consequat lorem in lectus.
+° Nullam tristique nonummy ante. 
+<br><font color="#D52D00"><b><a href="asfunction:_root.more_click_func,1">° read more</a></b></font><br>
+</a>
+]]></pageText>
+
+
+<pageText><![CDATA[
+COMPANY  <font color='#D52D00'>NEWS</font>
+]]></pageText>
+
+ 
+<pageText><![CDATA[
+
+<font color="#8B0918"><b><font size="12">12 · 05 · 2007</font></b></font><br><b>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</b> In consectetuer tincidunt lectus...
+<br><font color="#D52D00"><b><a href="asfunction:_root.more_click_func,2">° more</a></b></font><br><br>
+
+<font color="#8B0918"><b><font size="12">28 · 04 · 2007</font></b></font><br><b>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</b> In consectetuer tincidunt lectus...
+<br><font color="#D52D00"><b><a href="asfunction:_root.more_click_func,3">° more</a></b></font><br><br>
+
+<font color="#8B0918"><b><font size="12">12 · 05 · 2007</font></b></font><br><b>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</b> In consectetuer tincidunt lectus...
+<br><br>
+
+<font color="#8B0918"><b><font size="12">28 · 04 · 2007</font></b></font><br><b>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</b> In consectetuer tincidunt lectus...
+
+
+]]></pageText>
+
+
+</texts>
+
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Read more 1
+]]></item>
+<item name="linkText"><![CDATA[
+Tnte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean nonummy  hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat malesuada  odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna. donec  accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean  nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat  malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna.  donec accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus.  aenean nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce  feugiat malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra  magna. donec accumsan malesuad.
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Read more 2
+]]></item>
+<item name="linkText"><![CDATA[
+Tnte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean nonummy  hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat malesuada  odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna. donec  accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean  nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat  malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna.  donec accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus.  aenean nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce  feugiat malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra  magna. donec accumsan malesuad.
+]]></item>
+</link>
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Read more 3
+]]></item>
+<item name="linkText"><![CDATA[
+Tnte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean nonummy  hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat malesuada  odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna. donec  accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean  nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat  malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna.  donec accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus.  aenean nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce  feugiat malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra  magna. donec accumsan malesuad.
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Read more 4
+]]></item>
+<item name="linkText"><![CDATA[
+Tnte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean nonummy  hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat malesuada  odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna. donec  accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean  nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat  malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna.  donec accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus.  aenean nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce  feugiat malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra  magna. donec accumsan malesuad.
+]]></item>
+</link>
+
+</page>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<page name="ABOUT US">
+<image imageUrl="_pic2.jpg" link="http://www.yourcompany.com"/>
+<texts>
+
+
+<pageText><![CDATA[
+<font color='#D52D00'>COMPANY</font> PROFILE
+]]></pageText>
+
+
+<pageText><![CDATA[
+<a href="#">
+<b>°  Agna Endrerit Sit Amet
+°  Tincidunt Ac Viverra Sed, Nulla
+°  Donec Porta Diam Eu Massa
+°  Quisque Diam Lorem
+°  Interdum Vitae,Dapibus A
+</a>
+]]></pageText>
+
+<pageText><![CDATA[
+<b>Duis sit amet neque.</b> Duis odio nulla, tincidunt sit amet, vulputate a, auctor et, tortor. Nulla sit amet lectus at nunc lacinia laoreet.
+]]></pageText>
+
+<pageText><![CDATA[
+TESTIMONIALS
+]]></pageText>
+
+<pageText><![CDATA[
+"... Duis odio nulla, tincidunt sit amet, vulputate a, auctor et, tortor. Nulla sit amet lectus at nunc lacinia laoreet. Aliquam enim purus, cursus id, consectetuer se aliquet sit amet, euismod in ligula ..."<br>
+<p align='right'><b><font color="#D52D00">Bradley Grosh</font></b></p>
+]]></pageText>
+
+
+<pageText><![CDATA[
+OUR  <font color='#D52D00'>PRINCIPLES</font>
+]]></pageText>
+
+ 
+<pageText><![CDATA[
+<b>° Neque porro quisquam est, qui dolorem ipsum quia dolor sit</b><br>Vestibulum libero nisl, porta vel, sceleris- que eget, malesuada at, neque. 
+<br><font color="#D52D00"><b><a href="asfunction:_root.more_click_func,0">° read more</a></b></font><br><br>
+
+<b>° Neque porro quisquam est, qui dolorem ipsum quia dolor sit</b><br>Vestibulum libero nisl, porta vel, sceleris- que eget, malesuada at, neque. 
+<br><font color="#D52D00"><b><a href="asfunction:_root.more_click_func,1">° read more</a></b></font><br><br>
+
+<font color="#8B0918"><b>12 · 05 · 2007</b></font><br><b>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</b> In consectetuer tincidunt lectus...
+<br><br>
+
+<font color="#8B0918"><b>28 · 04 · 2007</b></font><br><b>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</b> In consectetuer tincidunt lectus...
+
+
+]]></pageText>
+
+
+</texts>
+
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Read more 1
+]]></item>
+<item name="linkText"><![CDATA[
+Tnte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean nonummy  hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat malesuada  odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna. donec  accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean  nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat  malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna.  donec accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus.  aenean nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce  feugiat malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra  magna. donec accumsan malesuad.
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Read more 2
+]]></item>
+<item name="linkText"><![CDATA[
+Tnte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean nonummy  hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat malesuada  odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna. donec  accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean  nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat  malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna.  donec accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus.  aenean nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce  feugiat malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra  magna. donec accumsan malesuad.
+]]></item>
+</link>
+</page>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<page name="SERVICES">
+<image imageUrl="_pic3.jpg" link="http://www.yourcompany.com"/>
+<texts>
+
+
+<pageText><![CDATA[
+<font color='#D52D00'>SERVICES</font> OVERVIEW
+]]></pageText>
+
+
+<pageText><![CDATA[
+<b>Management Consulting</b>
+Duis sit amet neque. Duis odio nulla, tincidunt sit amet, vulputate a, auctor et, tortor. Nulla sit amet lectus at nunc lacinia laoreet. Aliquam enim purus, cursus id.
+<br><br><font color="#D52D00"><b><a href="asfunction:_root.more_click_func,1">° read more</a></b></font><br><br>
+]]></pageText>
+
+<pageText><![CDATA[
+<b>Duis ac turpis.</b> Donec sit amet eros. Lorem ipsum dolor sit amet, conse <font color="#D52D00"><u>ctetuer adipiscing elit.</u></font> Mauris fermentum dictum magna. Sed laoreet aliq uam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifen.
+]]></pageText>
+
+<pageText><![CDATA[
+<a href="#">
+<b>°  Scelerisque Vitae, Pede
+°  Donec Eget Tellus Non Erat
+°  Lacinia Fermentum
+°  Donec In Velit Vel Ipsum 
+°  Auctor Pulvinar</a>
+]]></pageText>
+
+<pageText><![CDATA[
+<a href="#">
+<b>°  Agna Endrerit Sit Amet
+°  Tincidunt Ac Viverra Sed, Nulla
+°  Donec Porta Diam Eu Massa
+°  Quisque Diam Lorem
+°  Interdum Vitae,Dapibus A</a>
+]]></pageText>
+
+
+<pageText><![CDATA[
+SERVICES  <font color='#D52D00'>LIST</font>
+]]></pageText>
+
+ 
+<pageText><![CDATA[
+<a href="#">
+<b>° Praesent Vestibulum Molestie
+° Aenean Nonummy Hendrerit
+° Vivamus Eget Nibh
+° Etiam Cursus Leo Vel Metus
+° Nulla Facilisi Aenean Nec Eros
+° Vestibulum Ante Ipsum Primis
+° In Faucibus Orci Luctus Et
+° Ultrices Posuere Cubilia Curae
+°  Agna Endrerit Sit Amet
+°  Tincidunt Ac Viverra Sed, Nulla
+°  Donec Porta Diam Eu Massa
+°  Quisque Diam Lorem
+°  Interdum Vitae,Dapibus A
+° Aenean Nonummy Hendrerit
+° Vivamus Eget Nibh
+° Etiam Cursus Leo Vel Metus
+° Nulla Facilisi Aenean Nec Eros
+° Vestibulum Ante Ipsum Primis
+° In Faucibus Orci Luctus Et
+° Ultrices Posuere Cubilia Curae
+°  Agna Endrerit Sit Amet
+°  Tincidunt Ac Viverra Sed, Nulla
+°  Donec Porta Diam Eu Massa
+°  Quisque Diam Lorem
+°  Interdum Vitae,Dapibus A
+</a>
+]]></pageText>
+
+
+</texts>
+
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Read more 1
+]]></item>
+<item name="linkText"><![CDATA[
+Tnte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean nonummy  hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat malesuada  odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna. donec  accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean  nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat  malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna.  donec accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus.  aenean nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce  feugiat malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra  magna. donec accumsan malesuad.
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Read more 2
+]]></item>
+<item name="linkText"><![CDATA[
+Tnte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean nonummy  hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat malesuada  odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna. donec  accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean  nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat  malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna.  donec accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus.  aenean nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce  feugiat malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra  magna. donec accumsan malesuad.
+]]></item>
+</link>
+</page>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<page name="SOLUTIONS">
+<image imageUrl="_pic4.jpg" link="http://www.yourcompany.com"/>
+<image imageUrl="_pic5.jpg" link="http://www.yourcompany.com"/>
+<texts>
+
+
+<pageText><![CDATA[
+<font color='#D52D00'>SOLUTIONS</font> ALLIANCE
+]]></pageText>
+
+
+<pageText><![CDATA[
+<b>Mauris accumsan nulla vel diam.</b> Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in,auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis, lobortis 
+]]></pageText>
+
+<pageText><![CDATA[
+<b>Professional researches</b><br>Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit llentesque sed doquamongue fermentum 
+<br><br><font color="#D52D00"><b><a href="asfunction:_root.more_click_func,0">° read more</a></b></font><br><br><br>
+<b>Financial saving program</b><br>Proin dictum elementum velit. Fusce euismod consequat ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit llentesque sed doquamongue fermentum 
+<br><br><font color="#D52D00"><b><a href="asfunction:_root.more_click_func,1">° read more</a></b></font><br><br>
+]]></pageText>
+
+
+<pageText><![CDATA[
+RECENT  <font color='#D52D00'>SOLUTIONS</font>
+]]></pageText>
+
+ 
+<pageText><![CDATA[
+<font color="#8B0918"><b>Diam Eu Massa Donec Porta</b></font><br>
+<b>Fusce euismod consequat ante.</b><br>Lorem ipsum dolor sit amet, consectetuer adipiscincumsan nulla vel diamg elit.
+<br><br><font color="#D52D00"><b><a href="asfunction:_root.more_click_func,2">° read more</a></b></font><br><br><br>
+<font color="#8B0918"><b>Quisque Diam Lorem Non Erat</b></font><br>
+<b>Fusce euismod consequat ante.</b><br>Lorem ipsum dolor sit amet, consectetuer adipiscincumsan nulla vel diamg elit.
+<br><br><font color="#D52D00"><b><a href="asfunction:_root.more_click_func,3">° read more</a></b></font><br><br><br>
+
+<font color="#8B0918"><b>Diam Eu Massa Donec Porta</b></font><br>
+<b>Fusce euismod consequat ante.</b><br>Lorem ipsum dolor sit amet, consectetuer adipiscincumsan nulla vel diamg elit.
+<br><br>
+<font color="#8B0918"><b>Quisque Diam Lorem Non Erat</b></font><br>
+<b>Fusce euismod consequat ante.</b><br>Lorem ipsum dolor sit amet, consectetuer adipiscincumsan nulla vel diamg elit.
+
+]]></pageText>
+
+
+</texts>
+
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Read more 1
+]]></item>
+<item name="linkText"><![CDATA[
+Tnte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean nonummy  hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat malesuada  odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna. donec  accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean  nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat  malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna.  donec accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus.  aenean nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce  feugiat malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra  magna. donec accumsan malesuad.
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Read more 2
+]]></item>
+<item name="linkText"><![CDATA[
+Tnte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean nonummy  hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat malesuada  odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna. donec  accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean  nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat  malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna.  donec accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus.  aenean nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce  feugiat malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra  magna. donec accumsan malesuad.
+]]></item>
+</link>
+
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Read more 3
+]]></item>
+<item name="linkText"><![CDATA[
+Tnte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean nonummy  hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat malesuada  odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna. donec  accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean  nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat  malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna.  donec accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus.  aenean nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce  feugiat malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra  magna. donec accumsan malesuad.
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Read more 4
+]]></item>
+<item name="linkText"><![CDATA[
+Tnte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean nonummy  hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat malesuada  odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna. donec  accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean  nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat  malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna.  donec accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus.  aenean nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce  feugiat malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra  magna. donec accumsan malesuad.
+]]></item>
+</link>
+
+
+</page>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<page name="PARTNERS">
+<image imageUrl="_pic6.jpg" link="http://www.yourcompany.com"/>
+<image imageUrl="_pic7.jpg" link="http://www.yourcompany.com"/>
+<image imageUrl="_pic8.jpg" link="http://www.yourcompany.com"/>
+<texts>
+
+
+<pageText><![CDATA[
+<font color='#D52D00'>PARTNERS</font> PROGRAMS
+]]></pageText>
+
+
+<pageText><![CDATA[
+<b>Mauris accumsan nulla vel diamed in lacus ut enim adipiscing venenati</b><br>Fusce orci felis, molestie ut, ornare quis, rhoncus at, dolor. Duis sit amet neque. Duis odio nulla, tincidunt sit amet, vulputate 
+<br><br><font color="#D52D00"><b><a href="asfunction:_root.more_click_func,0">° read more</a></b></font><br><br><br>
+]]></pageText>
+
+
+<pageText><![CDATA[
+COMPANY  <font color='#D52D00'>PARTNERS</font>
+]]></pageText>
+
+ 
+<pageText><![CDATA[
+<b>Company Name</b><br>
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,eaque ipsa quae ab illo inventore veritatis et quasi.
+<br><br><font color="#D52D00"><b><a href="asfunction:_root.more_click_func,1">° more partners</a></b></font>
+]]></pageText>
+
+
+<pageText><![CDATA[
+<font color='#D52D00'>ABOUT</font> MEMBERSHIP
+]]></pageText>
+
+
+<pageText><![CDATA[
+<b>Aliquam erat volutpauis ac turpis </b><br>Fusce orci felis, molestie ut, ornare quis, rhoncus at, dolor. Duis sit amet neque. Duis odio nulla, tincidunt sit amet, vulputate 
+<br><br><font color="#D52D00"><b><a href="asfunction:_root.more_click_func,2">° read more</a></b></font><br><br><br>
+]]></pageText>
+
+
+</texts>
+
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Read more 1
+]]></item>
+<item name="linkText"><![CDATA[
+Tnte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean nonummy  hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat malesuada  odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna. donec  accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean  nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat  malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna.  donec accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus.  aenean nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce  feugiat malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra  magna. donec accumsan malesuad.
+]]></item>
+</link>
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Read more 2
+]]></item>
+<item name="linkText"><![CDATA[
+Tnte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean nonummy  hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat malesuada  odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna. donec  accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean  nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat  malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna.  donec accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus.  aenean nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce  feugiat malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra  magna. donec accumsan malesuad.
+]]></item>
+</link>
+
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+Read more 3
+]]></item>
+<item name="linkText"><![CDATA[
+Tnte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean nonummy  hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat malesuada  odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna. donec  accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus. aenean  nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce feugiat  malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra magna.  donec accumsan malesuad.<br><br>nte eu lacus.lorem ipsum dolor sit ametctetu adipiscing elit. praesent vestibulum molestie lacus.  aenean nonummy hendrerit maurissellu porta. fusce suscipit varius mi. cum sociisque penatibus et magnis dis par.<br><br>fusce  feugiat malesuada odio. morbi nunc di gravida at, cursus nec, luctus a, lorem aeceas tristique orci ac sem. duis ultricies pharetra  magna. donec accumsan malesuad.
+]]></item>
+</link>
+
+</page>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<page name="CONTACTS">
+<image imageUrl="_pic9.jpg" link="http://www.yourcompany.com"/>
+<texts>
+
+
+<pageText><![CDATA[
+<font color='#D52D00'>PRIMARY</font> CONTACTS
+]]></pageText>
+
+
+<pageText><![CDATA[
+<b>9870 St Vincent Place,
+Glasgow, DC 45 Fr 45.</b><br>Telephone:   +1 800 603 6035
+FAX:             +1 800 889 9898 
+E-mail: <u><font color="#D52D00"><a href="#">mail@companyname.com</a></font><u>
+]]></pageText>
+
+
+<pageText><![CDATA[
+CONTACT  <font color='#D52D00'>FORM</font>
+]]></pageText>
+
+ 
+<pageText><![CDATA[
+<b>Etiam cursus leo vel metus. </b>
+Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae:
+]]></pageText>
+
+
+<pageText><![CDATA[
+<font color='#D52D00'>OUR</font> LOCATIONS
+]]></pageText>
+
+
+<pageText><![CDATA[
+<b>New Hampshire</b>
+Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, eed laoreet aliquam leo. Ut tellus dolor,lit. Aenean auctor wisi et urna. Aliquam erat volutpat. 
+
+<b>Mississippi</b>
+Duis ac turpis. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer  S dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna.
+<br><br>
+<b>New Hampshire</b>
+Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, eed laoreet aliquam leo. Ut tellus dolor,lit. Aenean auctor wisi et urna. Aliquam erat volutpat. 
+
+<b>Mississippi</b>
+Duis ac turpis. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer  S dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna.
+]]></pageText>
+
+
+</texts>
+</page>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 	 <page name="contacts">
+
+	 <texts>
+      <pageText><![CDATA[
+Our address
+]]></pageText>
+      <pageText><![CDATA[
+Molenean nonumit maurishasellusipit musce feugiat malesuada odiorbidio gravida cuctuloaecenas tristique orci seis ultricies pharetranec accumsan malesuada orconec sit amet eros. <br><br>9870 St Vincent Place,<br>
+Glasgow, DC 45 Fr 45.<br>
+Freephone:   +1 800 559 6580<br>
+Telephone:   +1 959 603 6035<br>
+FAX:             +1 101 889 9898<br>
+]]></pageText>
+      <pageText><![CDATA[
+Contact form
+]]></pageText>
+      <pageText><![CDATA[
+Praesent ibulum molenean nonumit maurishasellus portauscescipit musce feugiat malesuada odiorbi nunc odio gravida cuuctulorem. Maecenas tristique orci seis ultricies pharetra magna.
+]]></pageText>
+</texts>
+
+
+<image imageUrl="_pic6.jpg" link="http://www.yourcompany.com"/>
+</page>
+
+
+
+
+
+
+
+
+</section>
+
+<!-- privacy policy -->
+<section name="privacyPolicy">
+<item name="pageTitle"><![CDATA[
+Privacy Policy
+]]></item>
+<item name="pageText"><![CDATA[
+NTE EU LACUS.LOREM IPSUM DOLOR SIT AMETCTETU ADIPISCING ELIT. PRAESENT VESTIBULUM MOLESTIE LACUS. AENEAN NONUMMY HENDRERIT MAURISSELLU PORTA. FUSCE SUSCIPIT VARIUS MI. CUM SOCIISQUE PENATIBUS ET MAGNIS DIS PAR.<BR><BR>FUSCE FEUGIAT MALESUADA ODIO. MORBI NUNC DI GRAVIDA AT, CURSUS NEC, LUCTUS A, LOREM AECEAS TRISTIQUE ORCI AC SEM. DUIS ULTRICIES PHARETRA MAGNA. DONEC ACCUMSAN MALESUAD.<BR><BR>NTE EU LACUS.LOREM IPSUM DOLOR SIT AMETCTETU ADIPISCING ELIT. PRAESENT VESTIBULUM MOLESTIE LACUS. AENEAN NONUMMY HENDRERIT MAURISSELLU PORTA. FUSCE SUSCIPIT VARIUS MI. CUM SOCIISQUE PENATIBUS ET MAGNIS DIS PAR.<BR><BR>FUSCE FEUGIAT MALESUADA ODIO. MORBI NUNC DI GRAVIDA AT, CURSUS NEC, LUCTUS A, LOREM AECEAS TRISTIQUE ORCI AC SEM. DUIS ULTRICIES PHARETRA MAGNA. DONEC ACCUMSAN MALESUAD.<BR><BR>NTE EU LACUS.LOREM IPSUM DOLOR SIT AMETCTETU ADIPISCING ELIT. PRAESENT VESTIBULUM MOLESTIE LACUS. AENEAN NONUMMY HENDRERIT MAURISSELLU PORTA. FUSCE SUSCIPIT VARIUS MI. CUM SOCIISQUE PENATIBUS ET MAGNIS DIS PAR.<BR><BR>FUSCE FEUGIAT MALESUADA ODIO. MORBI NUNC DI GRAVIDA AT, CURSUS NEC, LUCTUS A, LOREM AECEAS TRISTIQUE ORCI AC SEM. DUIS ULTRICIES PHARETRA MAGNA. DONEC ACCUMSAN MALESUAD
+]]></item>
+</section>
+<!-- privacy policy -->
+	
+<!-- contact form -->
+<section name="contactForm">
+		<texts>
+		<pageText><![CDATA[
+YOUR NAME:
+]]></pageText>
+        <pageText><![CDATA[
+E-MAIL ADDRESS:
+]]></pageText>
+        <pageText><![CDATA[
+MESSAGE:
+]]></pageText>
+        <pageText><![CDATA[
+<b>° <u>reset</b></u>
+]]></pageText>
+        <pageText><![CDATA[
+<b>° <u>submit</b></u>
+]]></pageText>
+		</texts>
+<item name="serverOption">php</item>
+<item name="recipient">ice@template-help.com</item>
+
+</section>
+<!-- contact form -->
+</content>
+
+
+
+
+
+
+<page name="SERVIÇOS">
+<image imageUrl="_pic3.jpg" link="http://www.yourcompany.com"/>
+<texts>
+
+
+<pageText><![CDATA[
+<font color='#D52D00'>SERVICES</font> OVERVIEW
+]]></pageText>
+
+
+<pageText><![CDATA[
+<b>Management Consulting</b>
+Duis sit amet neque. Duis odio nulla, tincidunt sit amet, vulputate a, auctor et, tortor. Nulla sit amet lectus at nunc lacinia laoreet. Aliquam enim purus, cursus id.
+<br><br><font color="#D52D00"><b><a href="asfunction:_root.more_click_func,1">° read more</a></b></font><br><br>
+]]></pageText>
+
+<pageText><![CDATA[
+<b>Duis ac turpis.</b> Donec sit amet eros. Lorem ipsum dolor sit amet, conse <font color="#D52D00"><u>ctetuer adipiscing elit.</u></font> Mauris fermentum dictum magna. Sed laoreet aliq uam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifen.
+]]></pageText>
+
+<pageText><![CDATA[
+<a href="#">
+<b>°  Scelerisque Vitae, Pede
+°  Donec Eget Tellus Non Erat
+°  Lacinia Fermentum
+°  Donec In Velit Vel Ipsum 
+°  Auctor Pulvinar</a>
+]]></pageText>
+
+<pageText><![CDATA[
+<a href="#">
+<b>°  Agna Endrerit Sit Amet
+°  Tincidunt Ac Viverra Sed, Nulla
+°  Donec Porta Diam Eu Massa
+°  Quisque Diam Lorem
+°  Interdum Vitae,Dapibus A</a>
+]]></pageText>
+
+
+<pageText><![CDATA[
+SERVICES  <font color='#D52D00'>LIST</font>
+]]></pageText>
+
+ 
+<pageText><![CDATA[
+<a href="#">
+<b>° Praesent Vestibulum Molestie
+° Aenean Nonummy Hendrerit
+° Vivamus Eget Nibh
+° Etiam Cursus Leo Vel Metus
+° Nulla Facilisi Aenean Nec Eros
+° Vestibulum Ante Ipsum Primis
+° In Faucibus Orci Luctus Et
+° Ultrices Posuere Cubilia Curae
+°  Agna Endrerit Sit Amet
+°  Tincidunt Ac Viverra Sed, Nulla
+°  Donec Porta Diam Eu Massa
+°  Quisque Diam Lorem
+°  Interdum Vitae,Dapibus A
+° Aenean Nonummy Hendrerit
+° Vivamus Eget Nibh
+° Etiam Cursus Leo Vel Metus
+° Nulla Facilisi Aenean Nec Eros
+° Vestibulum Ante Ipsum Primis
+° In Faucibus Orci Luctus Et
+° Ultrices Posuere Cubilia Curae
+°  Agna Endrerit Sit Amet
+°  Tincidunt Ac Viverra Sed, Nulla
+°  Donec Porta Diam Eu Massa
+°  Quisque Diam Lorem
+°  Interdum Vitae,Dapibus A
+</a>
+]]></pageText>
+
+
+</texts>

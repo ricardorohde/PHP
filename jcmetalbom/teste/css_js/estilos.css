@@ -1,0 +1,249 @@
+/* CSS Document */
+
+/* ------------------- GERAL ------------------ */
+body{
+	background: url(../img/fundo_3.gif);
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+.topicos{
+	text-align: right;
+	color: #333333;
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 17px;
+}
+
+.borda_baixo{
+	border-bottom: 1px #000000 solid;
+}
+
+.saudacao{
+	text-align: center;
+	color: #333333;
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 13px;	
+}
+
+A.links:link{
+	color: #000000;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 13px;	
+	text-decoration: none;
+}
+
+A.links:visited{
+	color: #000000;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 13px;	
+	text-decoration: none;
+}
+
+A.links:active{
+	color: #000000;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 13px;	
+	text-decoration: none;
+}
+
+A.links:hover{
+	color: #000000;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 13px;	
+	text-decoration: underline;
+}
+
+.borda_direita{
+	border-right: #000000 1px dashed;
+}
+/* ------------------- MENU ESQUERDO ------------------------- */
+ul.item{
+	background: #FFFFFF;
+	padding: 0px;
+	margin: 0px;
+	list-style-type:none; /* Tira o marcador da lista */
+}
+
+ul.item li{
+	padding-left:5px;
+	border-bottom: 1px #000000 solid;
+}
+
+ul.item li.topo{
+	padding-left:5px;
+	border-bottom: 1px #000000 solid;
+	border-top: 1px #000000 solid;
+}
+
+ul.item a{
+	display:block;
+	height:1%;
+	background: #FFFFFF;
+	color : #000000;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 13px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+ul.item a:hover{
+	display:block;
+	height:1%;
+	background: #FFFFDD;
+	color : #000000;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 13px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+ul.sub_item{
+	background: #FFFFFF;
+	padding: 3px;
+	margin: 3px;
+	list-style-type:none; /* Tira o marcador da lista */ 		
+}
+
+ul.sub_item li{
+	padding-left:5px;
+	border-bottom: 1px #000000 solid;
+}
+
+ul.sub_item a{
+	display:block;
+	background: #FFFFFF;
+	color : #000000;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 13px;
+	font-weight: bold;
+	text-decoration: none;	
+}
+
+ul.sub_item a:hover{
+	display:block;
+	background: #FFFFDD;
+	color : #000000;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 13px;
+	font-weight: bold;
+	text-decoration: none;
+}
+/* ------------------- FIM DO MENU ESQUERDO ------------------------- */
+
+/* ------------------- PAINEL DE NOTÍCIAS --------------------------- */
+table.noticia a:link{
+	color: #000000;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 13px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+table.noticia a:hover{
+	color: #000000;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 13px;
+	font-weight: bold;
+	text-decoration: none;	
+}
+
+table.noticia a:active{
+	color: #000000;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 13px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+table.noticia td{
+	padding: 1px;
+}
+
+table.noticia a:visited{
+	color: #000000;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 13px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.titNoticia{
+	color: #333333;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 17px;
+	font-weight: bold;	
+	text-transform: uppercase;
+}
+
+.titOutros{
+	color: #333333;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 15px;
+	font-weight: bold;	
+	text-transform: uppercase;
+}
+
+.texNoticia{
+	color: #333333;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 15px;	
+}
+
+.datNoticia{
+	text-align: right;
+	color: #333333;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 13px;
+}
+
+.datNoticia2{
+	color: #333333;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 13px;
+}
+/* ------------------- FIM DOPAINEL DE NOTÍCIAS --------------------- */
+/* ------------------- FORMULÁRIOS ---------------------------------- */
+.btn{
+	border: #000033 1px solid;
+	height: 21px;
+	background: #FEFEFF;
+	font-size: 11px; 
+	font-family: Tahoma, Verdana, Arial; 
+	font-weight: bold;
+	color: #000000; 
+}
+.btn:hover{
+	border: #000033 1px dashed;
+	height: 21px;
+	background: #FEFEFF;
+	font-size: 11px; 
+	font-family: Tahoma, Verdana, Arial; 
+	font-weight: bold;
+	color: #000000; 
+}
+.cx_texto{
+	padding-left: 2px;
+	height: 17px;
+	border: #000033 1px solid;
+	font-size: 13px; 
+	font-family: Tahoma, Verdana, Arial; 
+	color: #000000; 
+}
+.combo{
+	height: 19px;
+	border: #000033 1px solid;
+	font-size: 13px; 
+	font-family: Tahoma, Verdana, Arial; 
+	color: #000000; 
+}
+.area{
+	border: #000033 1px solid;
+	font-size: 13px; 
+	font-family: Tahoma, Verdana, Arial; 
+	color: #000000; 
+}
+/* ------------------- FIM DOS FORMULÁRIOS -------------------------- */

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="index.php" server="D:/wamp/www/carrinho_compras/" local="130279247377127980" remote="130279247370000000" Dst="2" />
+<file name="cidade_lista.php" server="D:/wamp/www/carrinho_compras/" local="130276267543588735" remote="130276267540000000" Dst="2" />
+<file name="principal.php" server="D:/wamp/www/carrinho_compras/" local="130271183228310979" remote="130271183220000000" Dst="2" />
+<file name="cidade_manutencao.php" server="D:/wamp/www/carrinho_compras/" local="130271979402040064" remote="130271979400000000" Dst="2" />
+<file name="cidade_acao.php" server="D:/wamp/www/carrinho_compras/" local="130271968115247558" remote="130271968110000000" Dst="2" />
+<file name="cidade_form.php" server="D:/wamp/www/carrinho_compras/" local="130272298365655071" remote="130272298360000000" Dst="2" />
+<file name="categoria_manutencao.php" server="D:/wamp/www/carrinho_compras/" local="130272811402677092" remote="130272811400000000" Dst="2" />
+<file name="categoria_lista.php" server="D:/wamp/www/carrinho_compras/" local="130276267370768302" remote="130276267370000000" Dst="2" />
+<file name="categoria_form.php" server="D:/wamp/www/carrinho_compras/" local="130272812581369925" remote="130272812580000000" Dst="2" />
+<file name="categoria_acao.php" server="D:/wamp/www/carrinho_compras/" local="130272816657720468" remote="130272816650000000" Dst="2" />
+<file name="usuario_manutencao.php" server="D:/wamp/www/carrinho_compras/" local="130276229347857898" remote="130276229340000000" Dst="2" />
+<file name="usuario_lista.php" server="D:/wamp/www/carrinho_compras/" local="130276264431538970" remote="130276264430000000" Dst="2" />
+<file name="usuario_form.php" server="D:/wamp/www/carrinho_compras/" local="130273962428898260" remote="130273962420000000" Dst="2" />
+<file name="usuario_acao.php" server="D:/wamp/www/carrinho_compras/" local="130273157097517267" remote="130273157090000000" Dst="2" />
+<file name="login_form.php" server="D:/wamp/www/carrinho_compras/" local="130275765748055460" remote="130275765740000000" Dst="2" />
+<file name="login_validacao.php" server="D:/wamp/www/carrinho_compras/" local="130276268133308002" remote="130276268130000000" Dst="2" />
+<file name="logoff.php" server="D:/wamp/www/carrinho_compras/" local="130276205504099063" remote="130276205500000000" Dst="2" />
+<file name="fornecedor_manutencao.php" server="D:/wamp/www/carrinho_compras/" local="130276391071559695" remote="130276391070000000" Dst="2" />
+<file name="fornecedor_lista.php" server="D:/wamp/www/carrinho_compras/" local="130276368279680123" remote="130276368270000000" Dst="2" />
+<file name="fornecedor_form.php" server="D:/wamp/www/carrinho_compras/" local="130276418972061670" remote="130276418970000000" Dst="2" />
+<file name="fornecedor_acao.php" server="D:/wamp/www/carrinho_compras/" local="130276348334859875" remote="130276348330000000" Dst="2" />
+<file name="produtos_manutencao.php" server="D:/wamp/www/carrinho_compras/" local="130276643895752324" remote="130276643890000000" Dst="2" />
+<file name="produtos_lista.php" server="D:/wamp/www/carrinho_compras/" local="130277197174537685" remote="130277197170000000" Dst="2" />
+<file name="produtos_form.php" server="D:/wamp/www/carrinho_compras/" local="130276620796486223" remote="130276620790000000" Dst="2" />
+<file name="produtos_acao.php" server="D:/wamp/www/carrinho_compras/" local="130276621490834645" remote="130276621490000000" Dst="2" />
+<file name="imagem_manutencao.php" server="D:/wamp/www/carrinho_compras/" local="130277285882243177" remote="130277285880000000" Dst="2" />
+<file name="imagem_lista.php" server="D:/wamp/www/carrinho_compras/" local="130277284493138740" remote="130277284490000000" Dst="2" />
+<file name="imagem_form.php" server="D:/wamp/www/carrinho_compras/" local="130277272210000000" remote="130277272210000000" Dst="2" />
+<file name="imagem_acao.php" server="D:/wamp/www/carrinho_compras/" local="130277131721107242" remote="130277131720000000" Dst="2" />
+<file name="imagens" server="D:/wamp/www/carrinho_compras/" local="130277220530731647" remote="130277220530000000" Dst="2" />
+<file name="cliente_manutencao.php" server="D:/wamp/www/carrinho_compras/" local="130279221050309988" remote="130279221050000000" Dst="2" />
+<file name="cliente_lista.php" server="D:/wamp/www/carrinho_compras/" local="130279220059221774" remote="130279220050000000" Dst="2" />
+<file name="cliente_acao.php" server="D:/wamp/www/carrinho_compras/" local="130279221239219241" remote="130279221230000000" Dst="2" />
+<file name="cliente_form.php" server="D:/wamp/www/carrinho_compras/" local="130279216649573809" remote="130279216640000000" Dst="2" />
+<file name="pedido_manutencao.php" server="D:/wamp/www/carrinho_compras/" local="130279256892964356" remote="130279256890000000" Dst="2" />
+<file name="pedido_lista.php" server="D:/wamp/www/carrinho_compras/" local="130279258251255238" remote="130279258250000000" Dst="2" />
+<file name="pedido_acao.php" server="D:/wamp/www/carrinho_compras/" local="130279235925441316" remote="130279235920000000" Dst="2" />
+<file name="pedido_form.php" server="D:/wamp/www/carrinho_compras/" local="130279229131551255" remote="130279229130000000" Dst="2" />
+</dwsync>

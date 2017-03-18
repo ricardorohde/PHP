@@ -1,0 +1,135 @@
+.txtTahoma12pxPretoBold {
+	font-family: Tahoma;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+}
+.txtTahoma12pxPreto {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+}
+.BoxHome {
+	BORDER-RIGHT: #b9b9b9 1px solid;
+	BORDER-TOP: #b9b9b9 1px solid;
+	FONT-SIZE: 10px;
+	BORDER-LEFT: #b9b9b9 1px solid;
+	COLOR: #666666;
+	BORDER-BOTTOM: #b9b9b9 1px solid;
+	FONT-FAMILY: Tahoma, Geneva, Arial, Helvetica, sans-serif;font-size: 11px;
+}
+.ButHome {
+	BORDER-RIGHT: #b9b9b9 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #b9b9b9 1px solid; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 0px; BORDER-LEFT: #b9b9b9 1px solid; COLOR: #0071bd; PADDING-TOP: 0px; BORDER-BOTTOM: #b9b9b9 1px solid; FONT-FAMILY: Tahoma, Geneva, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #f4f4f4;font-weight: bold;font-size: 11px;
+}
+.txtTahoma11pxPreto {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #000000;
+}
+.txtTahoma11pxPretoBold {
+	font-family: Tahoma;
+	font-size: 11px;
+	font-weight: bold;
+	color: #000000;
+}
+
+.opcaoRepres {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #000000;
+	cursor:pointer;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+.opcaoRepres:hover {
+	font-family: Tahoma;
+	font-size: 11px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: underline;
+	cursor:pointer;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+.avisoInicial {
+	font-family: Tahoma;
+	font-weight: bold;
+	color: #CC3300;
+	padding-top:70px;
+	padding-bottom:70px;
+	font-size:13px;
+	letter-spacing:1px;
+}
+
+.rodape {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #666666;
+	padding:3px;
+	letter-spacing:1px;
+	word-spacing:3px;
+}
+
+.desenv {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #000099;
+}
+A:link .desenv{
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #000099;
+}
+A:visited .desenv{
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #000099;
+}
+A:hover .desenv{
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #000099;
+	text-decoration: underline;
+}
+A:active .desenv{
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #000099;
+}
+
+.menuAdm {
+	font-family: Arial, Verdana, Tahoma;
+	font-size: 12px;
+	color: #CC3300;
+	text-decoration: none;
+}
+.menuAdm:link {
+	font-family: Arial, Verdana, Tahoma;
+	font-size: 12px;
+	color: #CC3300;
+}
+.menuAdm:visited {
+	font-family: Arial, Verdana, Tahoma;
+	font-size: 12px;
+	color: #CC3300;
+}
+.menuAdm:hover {
+	font-family: Arial, Verdana, Tahoma;
+	font-size: 12px;
+	color: #CC3300;
+	text-decoration: underline;
+	font-weight: bold;
+}
+.menuAdm:active {
+	font-family: Arial, Verdana, Tahoma;
+	font-size: 12px;
+	color: #CC3300;
+}
+
+#optMenuAdm{
+	background-color:#FFFFFF
+	font-family:Tahoma, Verdana, Arial;
+	font-size:12px;
+	padding:3px;
+}
